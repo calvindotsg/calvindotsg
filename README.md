@@ -2,6 +2,7 @@
 ## Executive summary
 The repositories published here includes personal projects on various competencies: 
 - Object oriented Java
+- Battleship web app - Object oriented Javascript
 - Python
 - HTML/CSS webpages, hosted here on Github pages
 - Ardiuno physical computing  
