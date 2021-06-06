@@ -3,7 +3,7 @@
 The repositories published here includes personal projects on various competencies: 
 - [Film recommendation interface](https://github.com/l-calvin/Film-recommendation-interface/) - Object-oriented Java
 - [Battleship web app](https://battleship.lcalvin.com/) - Object-oriented Javascript
-- HTML/CSS webpages, hosted here on GitHub pages - [Slickshots menu](https://slickshots.lcalvin.com/). [Tioman Diving](https://diving.lcalvin.com/).
+- HTML/CSS webpages, hosted here on GitHub pages: [Slickshots menu](https://slickshots.lcalvin.com/). [Tioman Diving](https://diving.lcalvin.com/). [Battleship web app](https://battleship.lcalvin.com/).
 - [Arduino physical computing in Python](https://github.com/l-calvin/Arduino-projects/)
 
 ### The general purpose 
