@@ -1,10 +1,10 @@
-# 👋 Hello, I’m @l-calvin  
+# 👋 Hello, I’m @calvin-sg  
 ## Executive summary
 The repositories published here includes personal projects on various competencies: 
-- [Film recommendation interface](https://github.com/l-calvin/Film-recommendation-interface/) - Object-oriented Java
-- [Battleship web app](https://battleship.lcalvin.com/) - Object-oriented Javascript, HTML/CSS
-- HTML/CSS webpages, hosted here on GitHub pages: [Slickshots menu](https://slickshots.lcalvin.com/). [Tioman Diving](https://diving.lcalvin.com/). [Battleship web app](https://battleship.lcalvin.com/).
-- [Arduino physical computing in Python](https://github.com/l-calvin/Arduino-projects/)
+- [Film recommendation interface](https://github.com/calvin-sg/Film-recommendation-interface/) - Object-oriented Java
+- [Battleship web app](https://battleship.calvin.sg/) - Object-oriented Javascript, HTML/CSS
+- HTML/CSS webpages, hosted here on GitHub pages: [Slickshots menu](https://slickshots.calvin.sg/). [Tioman Diving](https://diving.calvin.sg/). [Battleship web app](https://battleship.calvin.sg/).
+- [Arduino physical computing in Python](https://github.com/calvin-sg/Arduino-projects/)
 
 ### The general purpose 
 - Identifying real world pain points
@@ -22,6 +22,6 @@ Object-oriented Java/Javascript/Python, MySQL, Software engineering, Software te
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-l-calvin/l-calvin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+calvin-sg/calvin-sg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
