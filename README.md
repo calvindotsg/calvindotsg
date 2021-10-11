@@ -5,7 +5,7 @@ The repositories published here includes personal projects on various competenci
 - [Job experience with Rule-based decision making systems notes](https://github.com/calvin-sg/Rule-based_systems) - IBM Operation decision manager rule engine and Object-oriented Java
 - [Film recommendation interface](https://github.com/calvin-sg/Film-recommendation-interface/) - Object-oriented Java
 - [Battleship web app](https://battleship.calvin.sg/) - Object-oriented Javascript, HTML/CSS
-- Example HTML/CSS webpages, hosted on GitHub pages: [Slickshots menu](https://slickshots.calvin.sg/). [Tioman Diving](https://diving.calvin.sg/). [Battleship web app](https://battleship.calvin.sg/) [Symbosis rooftop garden](https://garden.calvin.sg/).
+- Example HTML/CSS webpages, hosted on GitHub pages: [Slickshots menu](https://slickshots.calvin.sg/). [Tioman Diving](https://diving.calvin.sg/). [Battleship web app](https://battleship.calvin.sg/). [Symbosis rooftop garden](https://garden.calvin.sg/).
 - [Arduino physical computing in Python](https://github.com/calvin-sg/Arduino-projects/)
 
 ### The general purpose 
