@@ -21,8 +21,8 @@ I am interested in practical experiences that allows me to apply the concepts I 
 ## Job experience as Java software engineer
 Temporary Java software engineer in multi-national corporation developing next generation goverment project
 - Paired with a senior colleague with tasks within development and testing phases of agile software development lifecycle, as an on-job learning experience
-- Tasked with identifying and troubleshooting issues within backend rule engine and object-oriented Java component, with collaboration among hybrid team in resolving complex issues
-- Utilised up to date information technology tools used to assist development within the context of a government contracted Information technology project. Namely: GitLab, mySQL, IBM Operational Decision Manager rule engine with Eclipse, Jira, MobaXterm
+- Effectively troubleshoot and resolve issues within backend rule engine and object-oriented Java component, with active collaboration among hybrid team through Jira and Microsoft Teams
+- Utilised up to date information technology tools used to assist development within the context of a government contracted Information technology project. Namely: GitLab, mySQL, IBM Operational Decision Manager rule engine with Eclipse, MobaXterm
 
 ## Basic proficiencies:
 Object-oriented Java, Software engineering and project management, Javascript and related frameworks, MySQL, Neural networks and Artificial intelligence, Algorithm design, Integration Design, Advanced graphics and animation, E-commerce and e-Business, Rule-based decision making, Network systems, Wireless communications, Data structures, Docker containers, Virtual machines, Operating Systems and Linux, Batch command line, HTML and related markup languages
