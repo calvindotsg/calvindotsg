@@ -1,4 +1,20 @@
-# 👋 Hello, I’m @calvin-sg  
+<p align="center">
+  <h3 align="center">👋 Hello, I’m @calvin-sg</h3>
+</p>
+<p align="center">
+    <a href="https://calvin.sg">About Me</a>
+    ·
+    <a href="mailto:hello@calvin.sg">Email</a>
+    ·
+    <a href="https://www.linkedin.com/in/calvin-loh/">LinkedIn</a>
+</p>
+<p align="center">
+  <h4 align="center">Software engineer from Singapore</h4>
+</p>
+
+<p align="center"> 
+  <img align="center" src="https://komarev.com/ghpvc/?username=calvin-sg" alt="calvin-sg profile views" />
+</p>
 
 ## Executive summary
 The repositories published here includes personal projects on various competencies: 
