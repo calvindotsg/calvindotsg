@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center">👋 Hello, I’m @calvin-sg</h3>
+  <h1 align="center">👋 Hello, I’m @calvin-sg</h1>
 </p>
 <p align="center">
     <a href="https://calvin.sg">About Me</a>
