@@ -25,7 +25,7 @@ The repositories published here includes personal projects on various competenci
 - Example HTML/CSS webpages, hosted on GitHub pages: [Slickshots menu](https://slickshots.calvin.sg/). [Tioman Diving](https://diving.calvin.sg/). [Battleship web app](https://battleship.calvin.sg/). [Symbiosis rooftop garden](https://garden.calvin.sg/).
 - [Arduino physical computing in Python](https://github.com/calvin-sg/Arduino-projects/)
 
-### Why I'm here
+## Why I'm here
 - Identifying real world pain points
 - Brainstorming ideas
 - Prototype into working form  
