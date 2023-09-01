@@ -16,7 +16,7 @@
   <img align="center" src="https://komarev.com/ghpvc/?username=calvin-sg" alt="calvin-sg profile views" />
 </p>
 
-[![Site preview](/assets/hero.mp4)](https://calvin.sg/)
+[![Site preview](/assets/hero.gif)](https://calvin.sg/)
 
 ## My projects
 The repositories published here includes personal projects on various competencies:
