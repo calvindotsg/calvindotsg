@@ -2,7 +2,7 @@
   <h1 align="center">👋 Hello, I’m @calvindotsg</h1>
 </p>
 <p align="center">
-    <a href="https://calvin.sg">About Me</a>
+    <a href="https://calvin.sg">About Me 🌐</a>
     ·
     <a href="mailto:hello@calvin.sg">Email</a>
     ·
@@ -16,13 +16,13 @@
   <img align="center" src="https://komarev.com/ghpvc/?username=calvin-sg" alt="calvin-sg profile views" />
 </p>
 
+[![Site preview](/assets/hero.mp4)](https://calvin.sg/)
+
 ## My projects
 The repositories published here includes personal projects on various competencies:
 - [A portfolio webapp](https://calvin.sg/) - React
+- [Final year project](https://github.com/calvindotsg/Final-year-project) - React web app utilising backend rule-based decision-making in recommending location for food and beverage outlets with desired attributes for customers 
 - [Job experience with Rule-based decision-making systems notes](https://github.com/calvin-sg/Rule-based_systems) - IBM Operation decision manager rule engine and Object-oriented Java
-- [Film recommendation interface](https://github.com/calvin-sg/Film-recommendation-interface/) - Object-oriented Java
-- [Battleship web app](https://battleship.calvin.sg/) - Object-oriented Javascript, HTML/CSS
-- Example HTML/CSS webpages, hosted on GitHub pages: [Slickshots menu](https://slickshots.calvin.sg/). [Tioman Diving](https://diving.calvin.sg/). [Battleship web app](https://battleship.calvin.sg/). [Symbiosis rooftop garden](https://garden.calvin.sg/).
 - [Arduino physical computing in Python](https://github.com/calvin-sg/Arduino-projects/)
 
 ## Why I'm here
@@ -33,14 +33,14 @@ The repositories published here includes personal projects on various competenci
 There are plenty more projects completed in my undergraduate studies that I am unable to publish here, due to plagiarism concerns among others.
 
 ## Something about me
-I am interested in practical experiences that allows me to apply the concepts I have learnt in my undergraduate studies, with opportunities for full time career progression. 
+I seek an practical experiences where opportunities for learning are actively up for grabs. I am grateful for each challenge, each being a valuable learning opportunity.
 
 ## Job experiences
-- Software engineer continuously liaise with users to translate production issues and business requirements to developers
-- Temporary Java software engineer developing next generation government project
+- Business system analyst continuously liaise with users to translate production issues and business requirements to off-shore developers
+- Software engineer developing next generation government project
 
 ## Things I know
-Object-oriented Java, Software engineering and project management, Javascript and related frameworks, MySQL, Neural networks and Artificial intelligence, Algorithm design, Integration Design, Advanced graphics and animation, E-commerce and e-Business, Rule-based decision-making, Network systems, Wireless communications, Data structures, Docker containers, Virtual machines, Operating Systems and Linux, Batch command line, HTML and related markup languages
+Object-oriented Java, Software engineering and project management, Javascript and related frameworks, Relational SQL, Neural networks and Artificial intelligence, Algorithm design, Integration Design, Advanced graphics and animation, E-commerce and e-Business, Rule-based decision-making, Network systems, Wireless communications, Data structures, Docker containers, Virtual machines, Operating Systems and Linux, Batch command line, HTML and related markup languages
 
 <!---
 - 💞️ I’m looking to collaborate on ...
