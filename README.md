@@ -20,7 +20,7 @@
 
 ## My projects
 The repositories published here includes personal projects on various competencies:
-- [A portfolio webapp](https://calvin.sg/) - React
+- [My personal portfolio webiste](https://calvin.sg/) - Astro/Svetle
 - [Final year project](https://github.com/calvindotsg/Final-year-project) - React web app utilising backend rule-based decision-making in recommending location for food and beverage outlets with desired attributes for customers 
 - [Job experience with Rule-based decision-making systems notes](https://github.com/calvin-sg/Rule-based_systems) - IBM Operation decision manager rule engine and Object-oriented Java
 - [Arduino physical computing in Python](https://github.com/calvin-sg/Arduino-projects/)
@@ -36,6 +36,7 @@ There are plenty more projects completed in my undergraduate studies that I am u
 I seek an practical experiences where opportunities for learning are actively up for grabs. I am grateful for each challenge, each being a valuable learning opportunity.
 
 ## Job experiences
+- Maximising value, minimising effort in Operations: Identifying bottlenecks with opportunities for automation.
 - Business system analyst continuously liaise with users to translate production issues and business requirements to off-shore developers
 - Software engineer developing next generation government project
 
