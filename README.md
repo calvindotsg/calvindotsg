@@ -9,7 +9,7 @@
     <a href="https://www.linkedin.com/in/calvin-loh/">LinkedIn</a>
 </p>
 <p align="center">
-  <h4 align="center">Software engineer from Singapore</h4>
+  <h4 align="center">Business systems analyst from Singapore</h4>
 </p>
 
 <p align="center"> 
