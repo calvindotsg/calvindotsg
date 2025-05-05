@@ -21,9 +21,6 @@
 ## My projects
 The repositories published here includes personal projects on various competencies:
 - [My personal portfolio webiste](https://calvin.sg/) - Astro/Svetle
-- [Final year project](https://github.com/calvindotsg/Final-year-project) - React web app utilising backend rule-based decision-making in recommending location for food and beverage outlets with desired attributes for customers 
-- [Job experience with Rule-based decision-making systems notes](https://github.com/calvin-sg/Rule-based_systems) - IBM Operation decision manager rule engine and Object-oriented Java
-- [Arduino physical computing in Python](https://github.com/calvin-sg/Arduino-projects/)
 
 ## Why I'm here
 - Identifying real world pain points
