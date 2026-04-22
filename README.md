@@ -14,9 +14,13 @@ At HeyMax, I own the operational backbone. In practice, that looks like:
 
 ## Projects
 
-- **[calvin.sg](https://calvin.sg)** - Personal site, built with Astro and Svelte ([source](https://github.com/calvindotsg/portfolio-v2))
-- **[granola-to-minutes](https://github.com/calvindotsg/granola-to-minutes)** - CLI that exports Granola meeting data to Minutes-native markdown
-- **[mac-upkeep](https://github.com/calvindotsg/mac-upkeep)** - Automated macOS maintenance CLI, installable via [Homebrew](https://github.com/calvindotsg/homebrew-tap)
+- **[calvin.sg](https://calvin.sg)** — My personal landing page: who I am, what I'm working on now, and a live tracker for this year's cycling goal.
+- **[cc-menubar](https://github.com/calvindotsg/cc-menubar)** — Why do Claude Code quota tools only show what you've already spent? A macOS menubar gauge that shows runway (time to reset) instead.
+- **[mac-upkeep](https://github.com/calvindotsg/mac-upkeep)** — Why do dev tools scatter caches and updates across macOS with no coordinated cleanup? A zero-config CLI that runs unified maintenance on boot and weekly via launchd.
+- **[granola-to-minutes](https://github.com/calvindotsg/granola-to-minutes)** — Why should meeting AI summaries stay trapped in one vendor's cloud? A one-time migration CLI exporting Granola transcripts, summaries, and notes to Minutes-native markdown — with optional Claude-powered extraction of action items and decisions.
+- **[homebrew-tap](https://github.com/calvindotsg/homebrew-tap)** — Why ship install instructions when `brew install` exists? A personal tap that turns every CLI above into a one-line install on macOS, auto-bumped by release-please dispatch.
+- **[template-python-cli](https://github.com/calvindotsg/template-python-cli)** — Why re-scaffold release plumbing for every new CLI? A Python starter with `uv`, `typer`, `hatchling`, release-please, PyPI OIDC, and Homebrew tap dispatch wired in.
+- **[template-typescript-cli](https://github.com/calvindotsg/template-typescript-cli)** — Same painpoint, TypeScript side: commander, Biome, Vitest, release-please, and npm OIDC publish — cloned via `gh repo create --template`.
 
 ## Get in Touch
 
