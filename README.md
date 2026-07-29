@@ -14,7 +14,7 @@ At HeyMax, I own the operational backbone. In practice, that looks like:
 
 ## Projects
 
-- **[calvin.sg](https://calvin.sg)** — My personal landing page: who I am, what I'm working on now, and a live tracker for this year's cycling goal.
+- **[portfolio-v2](https://github.com/calvindotsg/portfolio-v2)** — My personal landing page [calvin.sg](https://calvin.sg): who I am, what I'm working on now, and a live tracker for this year's cycling goal.
 - **[mac-upkeep](https://github.com/calvindotsg/mac-upkeep)** — Why do dev tools scatter caches and updates across macOS with no coordinated cleanup? A zero-config CLI that runs unified maintenance on boot and weekly via launchd.
 - **[homebrew-tap](https://github.com/calvindotsg/homebrew-tap)** — Why ship install instructions when `brew install` exists? A personal tap that turns every CLI above into a one-line install on macOS, auto-bumped by release-please dispatch.
 
