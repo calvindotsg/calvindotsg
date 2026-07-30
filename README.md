@@ -1,6 +1,6 @@
 # Hi, I'm Calvin Loh
 
-Business Systems Analyst at [HeyMax](https://heymax.ai), a loyalty and travel rewards platform in Singapore.
+Founding Business Systems Analyst at [HeyMax](https://heymax.ai), a loyalty and travel rewards platform in Singapore.
 
 I build the systems that keep operations running and improving: docs-as-code platforms, workflow automation, and tooling that helps teams work with less friction.
 
